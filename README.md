@@ -9,9 +9,9 @@ then obtain the scores of attributes for the images using FAN classifier.
 
 Preparation：
 
-Upload the all files on google drive and then unzip all zip files. 
+1. Upload the all files on google drive and then unzip all zip files. 
 
-Please download the trained models from [Google drive](https://drive.google.com/open?id=1DFd2pvLUEYo2CawaYH_CWVqsAiFtihcz) or [Baidu drive](https://pan.baidu.com/s/1JJ7qqPE2InIqCXKbfjxfSw), and put it into FAN's outputs folder.
+2. Please download the trained models from [Google drive](https://drive.google.com/open?id=1DFd2pvLUEYo2CawaYH_CWVqsAiFtihcz) or [Baidu drive](https://pan.baidu.com/s/1JJ7qqPE2InIqCXKbfjxfSw), and put it into FAN's outputs folder.
 
 To run our code:
 1.  run styleGAN.ipynb to generate images of a particular attribute
